@@ -1,4 +1,4 @@
-package ClientServer;
+ackage ClientServer;
 
 //Definisce il pacchetto
 
